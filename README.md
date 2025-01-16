@@ -14,8 +14,8 @@ This serves a full-fledged and comprehensive resource guide for:
 
 
 Other Cool A.I. Tools For Building Agentic Software:
-[Playwright](https://playwright.dev/)
-[Workflow automation](https://kestra.io/)
+- [Playwright](https://playwright.dev/)
+- [Workflow automation](https://kestra.io/)
 [Workflow automation](https://n8n.io/)
 [Deepseek](https://www.deepseek.com/)
 [business grade research](https://exa.ai/)
