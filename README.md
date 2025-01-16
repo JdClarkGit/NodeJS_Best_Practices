@@ -13,6 +13,32 @@ This serves a full-fledged and comprehensive resource guide for:
 - [Full Stack Open](https://fullstackopen.com/en/)
 
 
+Other Cool A.I. Tools For Building Agentic Software:
+[Playwright](https://playwright.dev/)
+[Workflow automation](https://kestra.io/)
+[Workflow automation](https://n8n.io/)
+[Deepseek](https://www.deepseek.com/)
+[business grade research](https://exa.ai/)
+[private and flexible writing app](https://obsidian.md/)
+[better way to scrape for website](https://jina.ai/reader/)
+[text to speech](https://elevenlabs.io/)
+[unified interface for all the LLMs](https://openrouter.ai/)
+[General LLM](https://deepmind.google/)
+[Alternatives to Langchain](https://www.reddit.com/r/LangChain/comments/18hd5vo/langchain_alternatives_thread/?rdt=44109)
+[create podcasts and study guides](https://notebooklm.google/)
+[NirDiament: A.i. Researcher](https://github.com/NirDiamant/GenAI_Agents) 
+[Atlas of AI tools](https://ai-atlas.mosn.me/)
+[Botpress](https://botpress.com/)
+[Audio Notes](https://www.audionotes.app/)
+[search smarter](https://www.turboseek.io/)
+[WithBroadcast](https://www.withbroadcast.com/)
+[Speak - Helps with language learning](https://www.speak.com/)
+[Open Router: Access to various LLMs](openrouter.ai)
+[Browser Automation Software](https://playwright.dev)
+
+**IP proxies you can use; use BrightData for your proxies
+
+
 # React Best Practices
 
 This README outlines a comprehensive set of best practices for React development, based on Joseph's recommendations. These guidelines cover various aspects of React development, including component design, state management, application structure, performance optimization, testing strategies, styling approaches, and data fetching techniques.
